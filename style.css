@@ -1,0 +1,31 @@
+.header{
+
+    display: flex;
+    background-color: mediumblue;    
+}
+
+.body{
+    display: flex;
+    background-color: orange;
+}
+
+.points{
+    display: flex;
+    background-color: yellow;
+}
+
+.grid{
+    display: flex;
+    
+    justify-content: space-evenly;
+    
+        flex-direction: column ;
+}
+
+.item{
+    background-color:orange;
+}
+
+.footer{
+    background-color: mediumblue;
+}
